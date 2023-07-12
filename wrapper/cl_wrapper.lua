@@ -72,7 +72,6 @@ function Wrapper:Target(id,label,pos,event,type) -- QBTarget target create
             distance = 1.5
         })
     end
-    Config.Settings.Target = "OX"
     if Config.Settings.Target == "OX" then 
         ----print(id,label,pos,event)
         exports["ox_target"]:addBoxZone({ -- -1183.28, -884.06, 13.75
