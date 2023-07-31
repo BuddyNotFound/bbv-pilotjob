@@ -1,5 +1,7 @@
 # bbv-pilotjob
 
+<a href='https://ko-fi.com/G2G0N78P7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ![9bf17eac7d7c43447fc28a750501079970b30d23_2_690x387](https://github.com/BuddyNotFound/bbv-pilotjob/assets/74051918/94b05c2a-409a-44f4-aaa3-e89e00a2b7b6)
 
 
